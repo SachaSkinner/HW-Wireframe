@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+#name {
+    width: 75%;
+    text-align: center;
+    color: whitesmoke;
+    background-color: blueviolet;
+    opacity: 0.9;
+    padding: 30px;
+    margin: 10px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:larger;
+    font-stretch: extra-expanded;
+    font-weight: bold;
+
+}
+#profession {
+    width: 75%;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(226, 100, 199);
+    opacity: 0.9;
+    padding: 30px;
+    margin: 10px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-stretch: extra-expanded;
+    font-weight: bold;
+   
+    
+}
+#main {
+    width: 75%;
+    margin: 10px auto ;
+    
+}
+#for_a_picture {
+    width: 30%;
+    text-align: center;
+    color: whitesmoke;
+    background-color: rgb(226, 100, 199);
+    opacity: 0.9;
+    padding: 10px;
+    margin: 10px auto;
+    float: left;
+    
+
+}
+#picture {
+    
+    width: 90%;
+    text-align: center;
+    color: whitesmoke;
+    opacity: 0.9;
+    padding: 30px;
+    margin: 10px auto;
+    float: left;
+    
+
+}
+#about_me {
+    width: 65%;
+    color: whitesmoke;
+    background-color: purple;
+    opacity: 0.9;
+    padding: 100px;
+    margin: 20px;
+    float: left;
+   
+
+}
+
+
+/* #all {
+    background-color: whitesmoke;
+    padding: 0;
+    margin-top: 0;
+    height: 100%;
+    width: 100%;
+} */
