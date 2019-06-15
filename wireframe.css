@@ -36,19 +36,19 @@ ul {
     opacity: 0.9;
     padding: 30px;
     margin: 10px auto;
-    font-family:'Arizonia', cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:30px;
     /* font-stretch: extra-expanded;
     font-weight: bold; */
     height: 106.4px;
-    letter-spacing: 10px;
+    letter-spacing: 2px;
 
 
 }
 #bar {
     text-align: center;
-    display: flex;
-    justify-content: space-between;
+    margin: 0 auto;
+    display: inline-block;
     
 }
 #profession {
@@ -123,8 +123,10 @@ ul {
     clear: both;
 }
 p {
-    font-family:'Arizonia', cursive;
-    font-size: 25px;
-    letter-spacing: 6px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    font-size: 18px;
+    letter-spacing: 2px;
+    text-align: center;
 }
 
